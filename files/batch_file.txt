@@ -1,0 +1,54 @@
+add 9
+show 9
+add 22
+join 22 9
+list
+stab 9
+stab 22
+stab 9
+stab 22
+fix 9
+fix 22
+add 12
+join 12 9
+list
+add 31
+join 31 22
+list
+add 0
+join 0 9
+stab 9
+stab 31
+stab 12
+stab 22
+stab 0
+stab 9
+stab 31
+stab 12
+stab 22
+stab 0
+stab 9
+stab 31
+stab 12
+stab 22
+stab 0
+stab 9
+stab 31
+stab 12
+stab 22
+stab 0
+fix 0
+fix 31
+fix 22
+fix 12
+fix 9
+fix 0
+fix 31
+fix 22
+fix 12
+fix 9
+show 0
+show 9
+show 12
+show 22
+show 31
